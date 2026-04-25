@@ -10,4 +10,4 @@
 	url = https://github.com/cran/polimetrics
 [submodule "vannstats"]
 	path = vannstats
-	url = https://github.com/cran/vannstats
+	url = https://github.com/burrelvannjr/vannstats
