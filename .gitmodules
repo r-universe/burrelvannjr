@@ -7,7 +7,7 @@
 	url = https://github.com/cran/braQCA
 [submodule "polimetrics"]
 	path = polimetrics
-	url = https://github.com/cran/polimetrics
+	url = https://github.com/burrelvannjr/polimetrics
 [submodule "vannstats"]
 	path = vannstats
 	url = https://github.com/burrelvannjr/vannstats
