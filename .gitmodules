@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "braQCA"]
 	path = braQCA
-	url = https://github.com/cran/braQCA
+	url = https://github.com/burrelvannjr/braqca
 [submodule "polimetrics"]
 	path = polimetrics
 	url = https://github.com/burrelvannjr/polimetrics
